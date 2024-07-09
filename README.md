@@ -1,4 +1,9 @@
+<h1 align="center">Hi, my name is Ronit Dahiya</h1>
 <h3 align="center">Currently in my 3rd year, pursuing B.tech in Computer Science and Engineering from NSUT</h3>
+
+- I’m currently learning **Data Structures & Algorithms, Web Development**
+
+- Email me at **ronitdahiya04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
