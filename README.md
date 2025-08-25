@@ -1,7 +1,7 @@
 <h1 align="center">Hi, my name is Ronit Dahiya</h1>
 <h3 align="center">Currently in my 4th year, pursuing B.tech in Computer Science and Engineering from NSUT</h3>
 
-- I’m currently learning **Data Structures & Algorithms, Full Stack Web Development**
+- My skills include **Data Structures and Algorithms, Full Stack Web Development**
 
 - Email me at **ronitdahiya04@gmail.com**
 
